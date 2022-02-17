@@ -3,14 +3,15 @@
 
 <head>
     <title>
-        Home
+        Products
     </title>
-    <link href="style.css" type="text/css" rel="stylesheet">
+    <link type="text/css" rel="stylesheet" href="style.css">
+
 </head>
 
 <body>
     <?php
-        include "header.php";
+    include "header.php";
     ?>
     <div id="main">
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>

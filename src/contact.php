@@ -3,9 +3,10 @@
 
 <head>
     <title>
-        Contact
+        Products
     </title>
-    <link href="style.css" type="text/css" rel="stylesheet">
+    <link type="text/css" rel="stylesheet" href="style.css">
+    
 </head>
 
 <body>
@@ -28,14 +29,7 @@
         </div>
 
     </div>
-    <div id="footer">
-        <nav>
-            <ul id="footer-links">
-                <li><a href="#">Privacy</a></li>
-                <li><a href="#">Declaimers</a></li>
-            </ul>
-        </nav>
-    </div>
+    <?php include "footer.php" ?>
 </body>
 
 </html>

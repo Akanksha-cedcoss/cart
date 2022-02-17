@@ -1,4 +1,5 @@
-<div id="header">
+<?php
+echo '<div id="header">
     <h1 id="logo">Logo</h1>
     <nav>
         <ul id="menu">
@@ -7,4 +8,5 @@
             <li><a href="contact.php">Contact</a></li>
         </ul>
     </nav>
-</div>
+</div>'
+?>
